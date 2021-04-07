@@ -57,8 +57,7 @@ export default class LoginForm extends Vue {
         this.formInput.password
       )
       .then((data) => {
-          this.$router.replace({name: "About"});
-          return data;
+          this.$router.replace({name: "Home"});
       })
       .catch((error: firebase.FirebaseError) => {
         this.error = error.message;

@@ -51,3 +51,9 @@ For reference, here are the tutorials that I followed:
 - https://medium.com/js-dojo/how-to-implement-route-guard-in-vue-js-9929c93a13db
 - https://github.com/vuejs/vue-router/pull/2497#issuecomment-474010032 ~ This explains the type to be used for next in route guard
 - https://openclassrooms.com/en/courses/5664336-create-a-web-application-with-vue-js/6536106-retrieve-data-from-vuex
+
+
+### Changes
+
+- Added not found page with button to redirect
+- Fixing the cause of setLoggedIn to false when the application refreshes
