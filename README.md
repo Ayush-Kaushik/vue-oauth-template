@@ -37,3 +37,17 @@ VUE_APP_STORAGE_BUCKET=XXX
 VUE_APP_MESSAGING_SENDER_ID=XXX
 VUE_APP_APP_ID=XXX
 ```
+
+
+For reference, here are the tutorials that I followed:
+- https://github.com/bradtraversy/vue-crash-2021
+- https://www.vuemastery.com/blog/getting-started-with-typescript-and-vuejs/
+- https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties
+- https://blog.logrocket.com/vue-firebase-authentication/
+- https://blog.logrocket.com/how-to-write-a-vue-js-app-completely-in-typescript/
+- https://bezkoder.com/vue-typescript-crud/
+- https://stackoverflow.com/questions/48592656/firebase-auth-is-not-a-function
+- https://router.vuejs.org/guide/advanced/navigation-guards.html#global-before-guards
+- https://medium.com/js-dojo/how-to-implement-route-guard-in-vue-js-9929c93a13db
+- https://github.com/vuejs/vue-router/pull/2497#issuecomment-474010032 ~ This explains the type to be used for next in route guard
+- https://openclassrooms.com/en/courses/5664336-create-a-web-application-with-vue-js/6536106-retrieve-data-from-vuex
